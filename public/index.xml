@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chakradhar Sai Kondisetty</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Chakradhar Sai Kondisetty</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Jul 2026 21:46:55 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Learning</title>
+      <link>http://localhost:1313/artifacts/my-first-learning/</link>
+      <pubDate>Wed, 15 Jul 2026 21:46:55 +0000</pubDate>
+      <guid>http://localhost:1313/artifacts/my-first-learning/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
