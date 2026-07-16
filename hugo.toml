@@ -8,7 +8,8 @@ theme = "PaperMod"
 [params.profileMode]
   enabled = true
   title = "Chakradhar Sai Kondisetty"
-  imageUrl = "your-image-url.jpg" # Optional
-  [params.profileMode.buttons]
+  imageUrl = "" # Leave blank or put your photo filename here
+  
+  [[params.profileMode.buttons]]
     url = "/posts"
     text = "Artifacts"
