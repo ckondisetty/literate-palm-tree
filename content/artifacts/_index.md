@@ -1,4 +1,6 @@
 ---
+![Chakradhar Sai Kondisetty](/images/profile.jpg)
+---
 title: "Chakradhar Sai Kondisetty"
 ---
 
