@@ -7,7 +7,7 @@ paginate = 5
   defaultTheme = "light"
   ShowShareButtons = false
   ShowReadingTime = true
-  disableThemeToggle = 
+  disableThemeToggle = true
   mainSections = ["posts"]
 
 [menu]
