@@ -1,18 +1,14 @@
 baseURL = "https://ckondisetty.github.io/literate-palm-tree/"
 title = "Chakradhar Sai Kondisetty"
 theme = "PaperMod"
-paginate = 5
 
 [params]
   defaultTheme = "light"
-  ShowShareButtons = false
   ShowReadingTime = true
   disableThemeToggle = true
   mainSections = ["posts"]
 
 [menu]
-  [[menu.main]]
-    identifier = "posts"
-    name = "Artifacts"
-    url = "/posts/"
-    weight = 10
+  main = [
+    {name = "Artifacts", url = "/posts/", weight = 1}
+  ]
