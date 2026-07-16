@@ -4,11 +4,11 @@ theme = "PaperMod"
 
 [params]
   defaultTheme = "light"
+  mainSections = ["posts"]
 
 [params.profileMode]
   enabled = true
   title = "Chakradhar Sai Kondisetty"
-  imageUrl = "" # Leave blank or put your photo filename here
   
   [[params.profileMode.buttons]]
     url = "/posts"
