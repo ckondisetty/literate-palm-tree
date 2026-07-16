@@ -1,5 +1,6 @@
 ---
 title: "Chakradhar Sai Kondisetty"
+layout: "home"
 ---
 
 ![Chakradhar Sai Kondisetty](/images/profile.jpg)
