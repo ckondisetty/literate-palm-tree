@@ -1,5 +1,5 @@
-baseURL = "baseURL = "https://ckondisetty.github.io/literate-palm-tree/"
-title = "Chakradhar Kondisetty"
+baseURL = "https://ckondisetty.github.io/literate-palm-tree/"
+title = "Chakradhar Sai Kondisetty"
 theme = "PaperMod"
 paginate = 5
 
@@ -11,7 +11,7 @@ paginate = 5
 
 [menu]
   [[menu.main]]
-    identifier = "artifacts"
+    identifier = "posts"
     name = "Artifacts"
-    url = "/artifacts/"
+    url = "/posts/"
     weight = 10
