@@ -1,5 +1,5 @@
 baseURL = "https://ckondisetty.github.io/literate-palm-tree/"
-title = "Chakradhar Sai Kondisetty"
+title = "Chakradhar Sa Kondisetty"
 theme = "PaperMod"
 
 [params]
@@ -13,3 +13,6 @@ theme = "PaperMod"
     name = "Artifacts"
     url = "/posts/"
     weight = 1
+
+[params]
+  cacheBust = "v1"
