@@ -1,8 +1,8 @@
 ---
-![Chakradhar Sai Kondisetty](/images/profile.jpg)
----
 title: "Chakradhar Sai Kondisetty"
 ---
+
+![Chakradhar Sai Kondisetty](/images/profile.jpg)
 
 ## Full-Stack Engineer
 
