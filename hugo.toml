@@ -7,12 +7,10 @@ theme = "PaperMod"
   ShowReadingTime = true
   disableThemeToggle = true
   mainSections = ["posts"]
+  cacheBust = "v1"
 
 [menu]
   [[menu.main]]
     name = "Artifacts"
     url = "/posts/"
     weight = 1
-
-[params]
-  cacheBust = "v1"
