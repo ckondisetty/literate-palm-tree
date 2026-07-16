@@ -3,6 +3,7 @@ title: "Chakradhar Sai Kondisetty"
 ---
 
 ![Chakradhar Sai Kondisetty](/images/profile.jpg)
+[**View All Artifacts**](/posts/)
 
 ## Full-Stack Engineer
 
